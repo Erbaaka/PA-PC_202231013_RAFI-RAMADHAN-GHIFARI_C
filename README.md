@@ -55,3 +55,8 @@ Untuk menyelesaikan kasus ini, digunakan variabel dengan nama M untuk menyimpan 
 Hasil dari pengolahannya akan sebagai berikut :
 
 ![image](https://github.com/Erbaaka/PA-PC_202231013_RAFI-RAMADHAN-GHIFARI_C/assets/88221760/6effa74d-2e06-4eca-8ba5-b5cab745424f)
+
+# Referensi
+1. https://docs.opencv.org/4.x/da/d6e/tutorial_py_geometric_transformations.html
+2. https://docs.opencv.org/4.x/da/d54/group__imgproc__transform.html
+3. https://www.tutorialspoint.com/how-to-flip-an-image-in-opencv-python
